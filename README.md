@@ -20,18 +20,7 @@ Biomedical Informatics Student | Medical AI Researcher | Healthcare Technology E
 - 🩻 Working on AI-powered radiology and ultrasound simulation systems
 - 🚀 Exploring Deep Learning, PACS/DICOM, Computer Vision, and Full-Stack Development
 
----
 
-# 🧠 Research Interests
-
-- Medical Imaging AI
-- Radiology & PACS Systems
-- Ultrasound Simulation
-- Deep Learning & Computer Vision
-- Bioinformatics & Genomic Analysis
-- Healthcare Software Engineering
-
----
 
 # ⚙️ Tech Stack
 
@@ -69,23 +58,7 @@ Biomedical Informatics Student | Medical AI Researcher | Healthcare Technology E
   <img src="https://streak-stats.demolab.com?user=malak7atem&theme=dracula&hide_border=true" />
 </p>
 
----
 
-# 🚀 Featured Projects
-
-## 🩻 Radiology System with PACS Integration
-AI-assisted radiology platform connected with PACS/DICOM systems for medical image management and analysis.
-
-## 🧬 Ovarian Cancer Classification
-Deep learning models using ultrasound imaging for ovarian tumor classification and early prognosis prediction.
-
-## 📊 Bioinformatics Research
-Genomic and sequencing data analysis using R for biomarker discovery and cancer research applications.
-
-## 🏥 Healthcare Management Systems
-Development of intelligent healthcare software solutions including clinic management and medical record systems.
-
----
 
 ## 🔗 Connect with Me 
 <p align="center"> 
