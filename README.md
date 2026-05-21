@@ -22,27 +22,6 @@ Biomedical Informatics Student | Medical AI Researcher | Healthcare Technology E
 
 
 
-# ⚙️ Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,r,sql" />
-</p>
-
-## 🌐 Frontend & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
-</p>
-
-## 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
 
 # 📊 GitHub Stats
 
