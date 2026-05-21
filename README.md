@@ -87,29 +87,17 @@ Development of intelligent healthcare software solutions including clinic manage
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/malak-hatem-818abb1b9/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="mailto:m.hatem2261@nu.edu.eg">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="50" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/malak7atem">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-  </a>
+## 🔗 Connect with Me 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/malak-hatem-818abb1b9/"> 
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" /> 
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://wa.me/2001125050444"> 
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" /> 
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:m.hatem2261@nu.edu.eg"> 
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" /> 
+  </a> 
+</p> 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" /> 
 </p>
-
----
-
-<p align="center">
-  <i>"Bridging AI and Healthcare through intelligent, research-driven solutions."</i>
-</p>
-
